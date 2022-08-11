@@ -1,0 +1,17 @@
+{
+    "name": "elysio/bot-flesh-real",
+    "autoload": {
+        "psr-4": {
+            "Elysio\\BotFleshReal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Refaltor77",
+            "email": "elysiomartinspro@gmail.com"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^7.1"
+    }
+}
